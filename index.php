@@ -25,8 +25,8 @@
 
 require 'main.php';
 ?>
-  <input text="text" placeholder="Введите">  
- <!-- см. вики для подробностей; гит хаб. -->
+  <!-- <input text="text" placeholder="Введите">  
+ см. вики для подробностей; гит хаб. -->
     <a href="https://github.com/Earthradrjw"><p id="github">гит хаб</p>
 <!-- https://github.com/Earthradrjw-->
   </body>
