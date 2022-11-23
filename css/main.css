@@ -4,13 +4,14 @@
 вам стоит попробовать...*/
 
 #text-in-p {
-  color: blue;
+  color: whitesmoke;
 }
 
-#hui {
-  color: grey;
-}
-
+#hui::after {
+  content: '129'
+  color:red;
+} 
+/* мы добавили к тексту '129' это псевдо элемент
 /* думаю мы добавили красок в наш сайт! */
 /* #href {
   color: #219fff;
@@ -23,9 +24,31 @@
 }
  что такое  text-decoration? Мы указываем будет ли нижнее подкчеркивание у нашего текста. Есть — none - остсутвует, overline - поддчеркивание с верху, underline - будет поддерчеркивание, line-through - сам текст будет перечеркнут. */
 
-.main_link:hover {
+/*.main_link:hover {
   color: black;
   text-decoration: underline;
   cursor: n-resize;
 }
-/* там дох*** гуглите. */ 
+там дох*** гуглите. */ 
+
+
+.main_link {
+  color: green;
+  text-decoration: underline;
+}
+/* погнали в index */
+
+input {color: blue}
+input:focus {color: red}
+
+#github {
+  color: darkred;
+  text-decoration: none;
+}
+
+body {
+  background-color: #02b8b8;
+  background-image: url('url photo');
+}
+/* мои глаза...  */
+
