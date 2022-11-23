@@ -14,3 +14,5 @@
 🤡 • кто будет меня обсирать:)
 
 🤝 • Спасибо тем кто меня понимает.
+
+![ALT](https://www.google.com/search?q=php&client=ms-android-xiaomi-rvo3&prmd=ivn&sxsrf=ALiCzsb3gnV4VjfdeatumabKArfi-52yFQ:1669204803133&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_geS6oMT7AhWRs4sKHaFaACQQ_AUoAXoECAIQAQ#imgrc=ZjpI7ONi50Yr8M)
