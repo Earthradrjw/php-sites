@@ -1,3 +1,31 @@
-body {
+/* body {
   color: green;
 }
+вам стоит попробовать...*/
+
+#text-in-p {
+  color: blue;
+}
+
+#hui {
+  color: grey;
+}
+
+/* думаю мы добавили красок в наш сайт! */
+/* #href {
+  color: #219fff;
+} */
+/* так ж вы можете сделать это по классу. */
+
+/* .main_link {
+  color: #219fff;
+  text-decoration: none;
+}
+ что такое  text-decoration? Мы указываем будет ли нижнее подкчеркивание у нашего текста. Есть — none - остсутвует, overline - поддчеркивание с верху, underline - будет поддерчеркивание, line-through - сам текст будет перечеркнут. */
+
+.main_link:hover {
+  color: black;
+  text-decoration: underline;
+  cursor: n-resize;
+}
+/* там дох*** гуглите. */ 
