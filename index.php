@@ -1,7 +1,9 @@
 <html lang="en-US">
   <head>
     <title>PHP Test</title>
-    <link rel="stylesheet" href="css/main.css">
+   <!-- подключения вашего css файла. -->
+ 
+  <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
 <h1>Заголовок</h1>
